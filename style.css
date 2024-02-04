@@ -1,0 +1,25 @@
+body {
+    font-size: 15pt;
+     background-image: url('/img/chrome_screenshot_1695318826707.png');
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+.item {
+  width: 200px;
+  height: 200px;
+  margin: 50px auto;
+  padding-top: 75px;
+  background: #ccc;
+  text-align: center;
+  color: #FFF;
+  font-size: 3rem;
+}
+
